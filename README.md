@@ -1,4 +1,4 @@
 audiolet
 ========
 
-qiaodoor audiolet plugin for cordova, updated
+qiaodoor audiolet plugin for cordova
